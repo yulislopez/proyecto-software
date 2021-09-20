@@ -1,2 +1,2 @@
 # proyecto-software
-aplicacion paraciencias naturales
+aplicacion para ciencias naturales
